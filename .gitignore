@@ -1,3 +1,4 @@
+HEAD
 HELP.md
 target/
 .mvn/wrapper/maven-wrapper.jar
@@ -31,3 +32,24 @@ build/
 
 ### VS Code ###
 .vscode/
+# Flutter
+build/
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+.packages
+.pub-cache/
+.pub/
+.idea/
+*.iml
+android/local.properties
+android/.gradle/
+*.log
+
+# React / Node
+node_modules/
+dist/
+.env
+*.local
+.DS_Store
+633c091e20453579b66005676d1ed4fe3683f4c3
